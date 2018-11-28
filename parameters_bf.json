@@ -1,4 +1,7 @@
 {
+  magzero_z": {
+    "name": "magzero_z"
+  },
   "baro_cf_vel": {
     "name": "baro_cf_vel"
   },
