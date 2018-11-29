@@ -1,4 +1,10 @@
 {
+   "dyn_notch_quality": {
+    "name": "dyn_notch_quality"
+  },
+   "dyn_notch_width_percent": {
+    "name": "accz_deadband"
+  },
   "acc_unarmedcal": {
     "name": "acc_unarmedcal",
     "values": [
