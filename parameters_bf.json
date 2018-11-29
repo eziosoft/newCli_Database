@@ -3,7 +3,7 @@
     "name": "dyn_notch_quality"
   },
    "dyn_notch_width_percent": {
-    "name": "accz_deadband"
+    "name": "dyn_notch_width_percent"
   },
   "acc_unarmedcal": {
     "name": "acc_unarmedcal",
