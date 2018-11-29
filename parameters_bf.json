@@ -1,4 +1,26 @@
 {
+  "acc_unarmedcal": {
+    "name": "acc_unarmedcal",
+    "values": [
+      "OFF",
+      "ON"
+    ]
+  },
+  "accz_deadband": {
+    "name": "accz_deadband"
+  },
+  "accxy_deadband": {
+    "name": "accxy_deadband"
+  },
+  "p_level": {
+    "name": "p_level"
+  },
+  "i_level": {
+    "name": "i_level"
+  },
+  "d_level": {
+    "name": "d_level"
+  },
   "baro_cf_vel": {
     "name": "baro_cf_vel"
   },
