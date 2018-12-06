@@ -1,6 +1,8 @@
 {
   "files": [
-    "commands_bf.json",
-    "parameters_bf.json"
+    "commands_betaflight.json",
+    "parameters_betaflight.json",
+    "commands_inav.json",
+    "parameters_inav.json"
    ]
 }
